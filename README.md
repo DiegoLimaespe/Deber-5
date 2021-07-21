@@ -19,6 +19,9 @@
 
 CÁPITULO 9
 
+_35. Repita el problema 31 para el circuito de la figura 9-95._
+ a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 
+
 
 CÁPITULO 10
 _1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:_
