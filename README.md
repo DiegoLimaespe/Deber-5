@@ -11,6 +11,8 @@
 
  2. Marco Teórico
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/M9.jpeg)
+
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/m10.1.jpg)
 
 3.Resolución de los ejercicios
