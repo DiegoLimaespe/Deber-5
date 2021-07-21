@@ -99,10 +99,6 @@ _33.	Repita el problema 31 para el circuito de la figura 9-91._
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja33.jpg)
 
-_35.	Repita el problema 31 para el circuito de la figura 9-95._
-
-
-
 _35. Repita el problema 31 para el circuito de la figura 9-95._
  a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 
  b. Use el circuito equivalente para determinar Vab Cuando Rl=20Ω  y cuando Rl=50Ω.  
@@ -120,6 +116,45 @@ _35. Repita el problema 31 para el circuito de la figura 9-95._
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35e.PNG)
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35f.PNG)
+
+_37._ 
+a.	Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga. 
+
+b.	Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
+
+c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0Ω a 50kΩ en incrementos de 5 kΩ.
+
+_39._
+a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL=RTh. 
+
+b. Calcule la máxima potencia disipada por RL.
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/39.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/39a.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/39b.PNG)
+
+_41._
+
+a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kΩ reciba la máxima potencia.
+b. Calcule la máxima potencia suministrada por RL.
+
+_43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50Ω, determine la magnitud y polaridad de la fuente de voltaje resultante._
+
+_45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103._
+
+
+_47. Repita el problema 45 para el circuito de la figura 9-105._
+
+
+_49._
+a. Determine la corriente I en el circuito de la figura 9-107. 
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+_51._
+a. Determine el voltaje V en el circuito de la figura 9-109. 
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
 CÁPITULO 10
 
