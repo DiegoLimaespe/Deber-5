@@ -231,7 +231,15 @@ _49. Para cada caso mostrado en la figura 10-44¿Cuál es la falla más probable
 
 5. Conclusiones 
 
+* Dentro de los circuitos eléctricos se puede hacer una simplificación de resistencias equivalentes, para así dependiendo del caso facilitar o simplificar un circuito y con ellos calcular lo que se quiera del circuito.
 
+* Cuando en un circuito hay varias resistencias se las puede aplicar los teoremas y sumar sea en serio o paralelo.
+
+* Hay varias formas de analizar circuitos eléctricos, cada una de las formas pueden ser mas o menos útiles dependiendo del circuito a analizar, pero con todas ellas se debería llegar a los mismos resultados.
+
+* Los circuitos generalmente se encontrar en una mezcla de resistores paralelos y resistores en serie, también conocido como circuitos mixtos. Para poder encontrar resistencia, voltaje y corriente en estos circuitos se usa las formulas y conceptos de cada uno de los casos (paralelo y serie).
+
+* Los instrumentos de medida como lo son el amperímetro y voltímetro tienen una cierta carga dentro de los circuitos, ya que, al utilizarlos, los valores medidos pueden variar por esta carga que producen los instrumentos.
 
 
 6. Bibliografía
