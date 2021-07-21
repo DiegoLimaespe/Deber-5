@@ -1,11 +1,14 @@
 # tarea-cap-9-y-10
 
+# Informe Tarea 4
+
 1. Objetivos
 
- Objetivos Generales
+ *__Objetivos Generales__*
+ 
+ 
+*__Objetivos Específicos__*
 
-
-Objetivos Específicos
 
 
  2. Marco Teórico
