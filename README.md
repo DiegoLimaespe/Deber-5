@@ -29,3 +29,43 @@ _23. ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 23 µf conectados en
 _25. Repita el ejercicio 23 si los capacitores están conectados en serie._
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/25.jpg)
+
+_27. Determine C_T para cada uno de los ejercicios de la figura 10-33._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/27.1.jpg)
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/27.2.jpg)
+
+
+__
+
+
+
+
+
+__
+
+
+
+
+
+
+__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
