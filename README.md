@@ -94,18 +94,43 @@ _35. Repita el problema 31 para el circuito de la figura 9-95._
  a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 
  b. Use el circuito equivalente para determinar Vab Cuando Rl=20Ω  y cuando Rl=50Ω.  
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35a.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35b.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35c.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35d.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35e.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35f.PNG)
 
 CÁPITULO 10
+
 _1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:_
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.1.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.1a.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.1b.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.3.PNG)
 
 _5. Se carga un capacitor 5 µF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?_
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.5.PNG)
+
 _7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm X 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?_
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.7.PNG)
 
 _9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?_
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.9.PNG)
 
 _15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?_
 
@@ -189,7 +214,7 @@ _49. Para cada caso mostrado en la figura 10-44¿Cuál es la falla más probable
 
  4. Video
 
-
+* https://youtu.be/VvaXL0glD9o
 
 5. Conclusiones 
 
