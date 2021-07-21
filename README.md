@@ -16,6 +16,24 @@
 3.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 9 y 10 del libro, Analisi de circuitos de Robbins
 
+
+CÁPITULO 9
+
+
+CÁPITULO 10
+__1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:__
+
+
+__5. Se carga un capacitor 5 µF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?__
+
+__7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm X 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?__
+
+
+__9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿cuál es el área de las placas?__
+
+
+__15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?__
+
 _19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos espaciamientos miden lo mismo, conforme el voltaje se incrementa, ¿Qué espaciamiento sufre ruptura en cada caso?_
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/19.jpg)
