@@ -94,7 +94,18 @@ _49. Para cada caso mostrado en la figura 10-44¿Cuál es la falla más probable
 
 
 
+ 4. Video
 
+
+
+5. Conclusiones 
+
+
+
+
+6. Bibliografía
+ * Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning. 
+ 
 
 
 
