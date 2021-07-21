@@ -19,8 +19,32 @@
 
 CÁPITULO 9
 
+_1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores_
+
+_3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77._
+
+
+_5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltajedesconocida para asegurar que la corriente a través de la carga sea Il=5mA, tal y como se muestra? Verifique los resultados mediante la superposición._
+
+_7. Encuentre el equivalente de Thevenin externo a Rl en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab_
+
+_9. Repita el problema 7 para el circuito de la figura 9-83_
+
+
+_11.Vea el circuito de la figura 9-85:_
+a. Encuentre el circuito equivalente de Thevenin externo a Rl.
+
+_13. Vea el circuito de la figura 9-87:_
+a.	Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
+b.	Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+_15. Vea el circuito de la figura 9-89:_
+a.	Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+b.	Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
 _35. Repita el problema 31 para el circuito de la figura 9-95._
  a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 
+ b. Use el circuito equivalente para determinar Vab Cuando Rl=20Ω  y cuando Rl=50Ω.  
 
 
 CÁPITULO 10
