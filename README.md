@@ -13,7 +13,7 @@
 
  2. Marco Teórico
 
-![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/M10.jpg
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/M10.jpg)
 
 3.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 9 y 10 del libro, Analisi de circuitos de Robbins
