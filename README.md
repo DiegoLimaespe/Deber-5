@@ -122,9 +122,7 @@ _35. Repita el problema 31 para el circuito de la figura 9-95._
 _37._ 
 a.	Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga. 
 
-b.	Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
-
-c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0Ω a 50kΩ en incrementos de 5 kΩ.
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/37.PNG)
 
 _39._
 
@@ -138,12 +136,6 @@ b. Calcule la máxima potencia disipada por RL.
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/39b.PNG)
 
-_41._
-
-a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kΩ reciba la máxima potencia.
-b. Calcule la máxima potencia suministrada por RL.
-
-_43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50Ω, determine la magnitud y polaridad de la fuente de voltaje resultante._
 
 _45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103._
 
@@ -151,7 +143,7 @@ _45. Use el Teorema de Millman para encontrar la corriente y la potencia disipad
 
 _47. Repita el problema 45 para el circuito de la figura 9-105._
 
-![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/47 .PNG)
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/47.PNG)
 
 _49._
 
