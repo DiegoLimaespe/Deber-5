@@ -290,3 +290,4 @@ _49. Para cada caso mostrado en la figura 10-44¿Cuál es la falla más probable
 
 
 
+
