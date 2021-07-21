@@ -19,18 +19,13 @@
 
 CÁPITULO 9
 
-
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Ej1.jpg)
-
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Ej3.jpg)
 
-
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Ej5.jpg)
 
-
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Ej7.jpg)
-
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Ej9.jpg)
 
@@ -56,7 +51,44 @@ b.	Use el circuito equivalente de Thévenin para encontrar la corriente I cuando
 
 _19.	Repita el problema 17 para el circuito de la figura 9-93._
 
-![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Ej19.jpg)
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja19.jpg)
+
+_21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja21.jpg)
+
+_23.	Repita el problema 22 para el circuito de la figura 9-97._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja23.jpg)
+
+_25.	Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja25.jpg)
+
+_27.	Repita el problema 25 para el circuito de la figura 9-83._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja27.jpg)
+
+_29.	Vea el circuito de la figura 9-85:_
+a. Encuentre el circuito equivalente de Norton externo a RL.
+b. Use el circuito equivalente para determinar IL cuando RL=20 kΩ y cuando RL= 50 kΩ.
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja29.jpg)
+
+_31._	
+
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87.
+b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja31.jpg)
+
+_33.	Repita el problema 31 para el circuito de la figura 9-91._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja33.jpg)
+
+_35.	Repita el problema 31 para el circuito de la figura 9-95._
+
+
 
 _35. Repita el problema 31 para el circuito de la figura 9-95._
  a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 
