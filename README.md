@@ -100,7 +100,9 @@ _33.	Repita el problema 31 para el circuito de la figura 9-91._
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/Eja33.jpg)
 
 _35. Repita el problema 31 para el circuito de la figura 9-95._
+
  a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 
+ 
  b. Use el circuito equivalente para determinar Vab Cuando Rl=20Ω  y cuando Rl=50Ω.  
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/35.PNG)
@@ -125,6 +127,7 @@ b.	Calcule el valor de la máxima potencia que puede ser suministrada a la carga
 c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0Ω a 50kΩ en incrementos de 5 kΩ.
 
 _39._
+
 a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL=RTh. 
 
 b. Calcule la máxima potencia disipada por RL.
@@ -144,17 +147,31 @@ _43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con un
 
 _45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103._
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/45.PNG)
 
 _47. Repita el problema 45 para el circuito de la figura 9-105._
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/47 .PNG)
 
 _49._
+
 a. Determine la corriente I en el circuito de la figura 9-107. 
+
 b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/49.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/49a.PNG)
+
 _51._
+
 a. Determine el voltaje V en el circuito de la figura 9-109. 
+
 b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/51.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/51a.PNG)
 
 CÁPITULO 10
 
@@ -180,7 +197,14 @@ _9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separaci
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.9.PNG)
 
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/e13.PNG)
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.13.PNG)
+
 _15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?_
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/10.15.PNG)
+
 
 _19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos espaciamientos miden lo mismo, conforme el voltaje se incrementa, ¿Qué espaciamiento sufre ruptura en cada caso?_
 
