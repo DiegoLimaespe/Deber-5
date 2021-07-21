@@ -62,14 +62,32 @@ _37. Para las figuras 10-33 c y d, encuentre el voltaje de cada capacitor si se 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/37.jpg)
 
 
-__
+_39. Repita el problema 10-38 para el circuito de la figura 10-39._
+
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/39.jpg)
+
+_43. El voltaje en el capacitor de la figura 10-42 a) se muestra en b).
+Dibuje la corriente Ic a escala de valores numéricos._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/43.jpg)
 
 
 
+_45. Si el voltaje en un capacitor de 4,7µf es Vc= 100e^(-0,05t)v qué valor tiene Ic._
 
-__
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/45.jpg)
 
 
+
+_47. Para la figura 10-42 determine la energía del capacitor en cada uno de las siguientes tiempos t= 0, 1, 4, 5, 7 y 9ms._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/47.jpg)
+
+
+_49. Para cada caso mostrado en la figura 10-44¿Cuál es la falla más probable?_
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/49.jpg)
 
 
 
