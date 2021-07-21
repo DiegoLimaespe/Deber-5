@@ -47,12 +47,27 @@ _31. Para la figura 10-36, determine C3 Y C4._
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/31.jpg)
 
 
+_33. Se tiene capacitores de 22, 47, 2.2 y 10µf. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de manera que usted prefiera?_
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/33.jpg)
+
+_35. Considere capacitores de 1, 1.5 y 10µf si CT=2,304µf ¿Cómo están conectados?_
+
+     El capacitador de 10 uf esta en paralelo con la combinación en serie de los capacitadores de 1uf y 1,5 uf.
+
+
+
+_37. Para las figuras 10-33 c y d, encuentre el voltaje de cada capacitor si se aplica 100v en los terminales a-b._
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/37.jpg)
 
 
 __
 
 
 
+
+__
 
 
 
