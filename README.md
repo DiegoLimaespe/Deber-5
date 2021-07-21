@@ -124,7 +124,7 @@ a.	Para el circuito de la figura 9-91 determine el valor de RL para que se sumin
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/37.PNG)
 
-La máxima potencia se suministrará cuando RL=60KΩ
+La máxima potencia se suministrará cuando RL=60kΩ
 
 _39._
 
