@@ -4,11 +4,22 @@
 
  *__Objetivos Generales__*
  
- 
+* Conocer los teoremas de superposición, Thévenin y sus métodos de resolución de circuitos eléctricos en cualquier tipo de circuito.
+
+* Resolver problemas de la teoría acerca de resistencia, voltaje, corriente, efectos de carga de los instrumentos de medida.
+
 *__Objetivos Específicos__*
 
+* Convertir una resistencia en una resistencia equivalente y viceversa.
 
+* Analizar los circuitos que tienen dos o más resistencias en paralelo
 
+* Plantear y resolver ecuaciones de con resistencias equivalentes para una red.
+
+* Encontrar la resistencia total, corriente, voltaje en una red que consta de resistores en serie y/o paralelo.
+
+* Calcular los efectos de carga de un voltímetro o un amperímetro cuando se usan para medir el voltaje o la corriente en algún circuito.
+ 
  2. Marco Teórico
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/M9.jpeg)
