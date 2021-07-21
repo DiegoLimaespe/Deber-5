@@ -1,5 +1,3 @@
-# tarea-cap-9-y-10
-
 # Informe Tarea 4
 
 1. Objetivos
@@ -18,7 +16,7 @@
 3.Resolución de los ejercicios
 * Resolver los ejercicios del capítulo 9 y 10 del libro, Analisi de circuitos de Robbins
 
-_19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños `puntos esféricos y un par de puntos afilados. Todos espaciamientos miden lo mismo, conforme el voltaje se incrementa, ¿Qué espaciamiento sufre ruptura en cada caso?_
+_19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos espaciamientos miden lo mismo, conforme el voltaje se incrementa, ¿Qué espaciamiento sufre ruptura en cada caso?_
 
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/19.jpg)
 
@@ -58,7 +56,7 @@ _33. Se tiene capacitores de 22, 47, 2.2 y 10µf. ¿Cuál es la capacitancia equ
 
 _35. Considere capacitores de 1, 1.5 y 10µf si CT=2,304µf ¿Cómo están conectados?_
 
-     El capacitador de 10 uf esta en paralelo con la combinación en serie de los capacitadores de 1uf y 1,5 uf.
+   El capacitador de 10 uf esta en paralelo con la combinación en serie de los capacitadores de 1uf y 1,5 uf.
 
 
 
