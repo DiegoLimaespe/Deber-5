@@ -18,3 +18,5 @@ _19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un ca
 ![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/19.jpg)
 
 _21. Un capacitor de 25µf tiene un coeficiente de temperatura de 175 ppm/ºC, ¿Por cuánto y en qué dirección podría variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?_
+
+![](https://github.com/DiegoLimaespe/fotos-cap-9-y-10/blob/main/21.jpg)
